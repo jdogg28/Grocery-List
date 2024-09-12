@@ -1,0 +1,23 @@
+section{
+    outline: 2px solid burlywood;
+    display: flex
+}
+ul,ol{background-color: aqua;
+padding:10px
+}
+
+div {
+    margin:20px
+}
+h1{
+    background-color: darkgray;
+}
+h2 {
+    background-color: cadetblue;
+}
+h3 {
+    background-color:yellowgreen;
+}
+img {
+    padding: 50px;
+}
